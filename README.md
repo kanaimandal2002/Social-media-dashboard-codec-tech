@@ -187,10 +187,6 @@ VITE_SOCKET_URL=http://localhost:5000
 - Frontend has Vite hot module replacement
 - Use Redux DevTools for state debugging
 
-## License
-
-MIT License - feel free to use this project for learning and development.
-
 ## Support
 
 For issues and questions, please create an issue in the repository.
