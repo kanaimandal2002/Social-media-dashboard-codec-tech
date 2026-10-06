@@ -11,7 +11,6 @@ A complete social media platform built with MongoDB, Express.js, React.js, Node.
 - User profiles with statistics
 - Analytics dashboard with charts
 - Redis-based notifications
-- Responsive design
 
 ## Tech Stack
 
